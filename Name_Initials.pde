@@ -1,3 +1,4 @@
+/* @pjs preload="Name_Initials"; */ 
 void setup()
 {
 size(700,700); 
