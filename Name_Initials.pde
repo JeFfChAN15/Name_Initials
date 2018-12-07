@@ -1,4 +1,4 @@
-/* @pjs preload="Name_Initials"; */ 
+/* @pjs preload="Intinal_Challange"; */ 
 void setup()
 {
 size(700,700); 
