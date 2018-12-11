@@ -1,4 +1,3 @@
-/* @pjs preload="Intinal_Challange"; */ 
 void setup()
 {
 size(700,700); 
@@ -18,3 +17,4 @@ strokeWeight(70);
 rect(315,184,120,400);
 //arc                  
 arc(310,577,250,200,radians(0),radians(180)); 
+}
